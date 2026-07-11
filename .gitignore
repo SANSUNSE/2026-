@@ -1,0 +1,39 @@
+# Build artifacts (C/C++)
+*.o
+*.obj
+*.d
+*.a
+*.so
+*.elf
+*.map
+*.bin
+*.hex
+
+# Keil / MDK-ARM
+*.uvoptx
+*.uvguix*
+*.axf
+*.crf
+*.dep
+*.htm
+*.lnp
+*.sct
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
